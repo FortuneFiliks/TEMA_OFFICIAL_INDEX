@@ -486,7 +486,7 @@
    }
    
    .third_section_first_flex_animation_class{
-	   animation : third_section_first_flex_animation 2s linear forwards;
+	   animation : none;
 	   
    }
    @keyframes third_section_second_flex_animation{
@@ -501,7 +501,7 @@
    }
    
    .third_section_second_flex_animation_class{
-	   animation : none !important;
+	   animation : none;
 	   
    }
 
