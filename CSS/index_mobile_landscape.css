@@ -501,7 +501,7 @@
    }
    
    .third_section_second_flex_animation_class{
-	   animation : none;
+	   animation : none !important;
 	   
    }
 
