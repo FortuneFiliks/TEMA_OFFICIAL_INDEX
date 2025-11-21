@@ -911,7 +911,7 @@
 		color : #ffffff;
 		position : absolute;
 		text-align : center;
-		font-size : 3rem;
+		font-size : 1.75rem;
 		top : 7.5%;
 		left : 10%;
 	}
@@ -919,7 +919,7 @@
     .protest-revolution{
         font-family: "Protest Revolution", serif;
         font-weight: 800;
-        font-size: 2.5rem;
+        font-size: 1.75rem;
         font-style: normal;
         padding-top: 20px;
     }	
